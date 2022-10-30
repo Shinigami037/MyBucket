@@ -1,3 +1,23 @@
 <resources>
-    <string name="app_name">MyBucket</string>
+    <string name="app_name">ModernLogin</string>
+    <string name="login_email_hint">Email</string>
+    <string name="login_password_hint">Password</string>
+    <string name="already_nhave_an_naccount">Already \nhave an \nAccount?</string>
+    <string name="new_user_register_now">New user? Register Now</string>
+    <string name="todo">TODO</string>
+    <string name="login">Login</string>
+    <string name="use_other_methods">Use other Methods</string>
+    <string name="todo2">TODO</string>
+    <string name="forgot_password">Forgot Password?</string>
+    <string name="google">TODO</string>
+    <string name="facebook">TODO</string>
+    <string name="name">Name</string>
+    <string name="facbook">TODO</string>
+    <string name="back">TODO</string>
+    <string name="regoogle">TODO</string>
+    <string name="already_have_an_account">Already have an account?</string>
+    <string name="use_other_methods2">Use other Methods</string>
+    <string name="here_s_nyour_first_nstep_with_nus">Here’s\nyour first\nstep with \nus!</string>
+    <string name="todo3">TODO</string>
+    <string name="register">Register</string>
 </resources>
